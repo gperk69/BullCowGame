@@ -4,7 +4,6 @@
 
 FBullCowGame BCGame; 
 
-//this is a test commit
 
 void PrintIntro();
 void PlayGame();
